@@ -1,0 +1,21 @@
+<mappings xmlns="http://dozer.sourceforge.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://dozer.sourceforge.net
+          http://dozer.sourceforge.net/schema/beanmapping.xsd">
+
+	<mapping>
+		<class-a>codesmell.transformer.domain.movie.Movie</class-a>
+		<class-b>codesmell.transformer.domain.omdb.OmdbMovie</class-b>
+		<field>
+			<a>movieTitle</a>
+			<b>movieDetail.movieTitle</b>
+		</field>
+		<field>
+			<a>rating</a>
+			<b>movieDetail.rating</b>
+		</field>
+		<field>
+			<a>releaseYear</a>
+			<b>movieDetail.releaseYear</b>
+		</field>
+	</mapping>
+</mappings>

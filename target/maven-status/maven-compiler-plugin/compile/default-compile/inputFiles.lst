@@ -1,0 +1,11 @@
+/Volumes/dev/DocTransformer/transformer/src/main/java/codesmell/transformer/MovieDocTransformerMain.java
+/Volumes/dev/DocTransformer/transformer/src/main/java/codesmell/transformer/service/MovieRouteBuilder.java
+/Volumes/dev/DocTransformer/transformer/src/main/java/codesmell/transformer/rest/MovieParam.java
+/Volumes/dev/DocTransformer/transformer/src/main/java/codesmell/transformer/util/dozer/ConvertFactory.java
+/Volumes/dev/DocTransformer/transformer/src/main/java/codesmell/transformer/rest/MovieController.java
+/Volumes/dev/DocTransformer/transformer/src/main/java/codesmell/transformer/domain/omdb/OmdbMovie.java
+/Volumes/dev/DocTransformer/transformer/src/main/java/codesmell/transformer/domain/movie/Movie.java
+/Volumes/dev/DocTransformer/transformer/src/main/java/codesmell/transformer/rest/MovieControllerAdvice.java
+/Volumes/dev/DocTransformer/transformer/src/main/java/codesmell/transformer/domain/omdb/OmdbMovieDetail.java
+/Volumes/dev/DocTransformer/transformer/src/main/java/codesmell/transformer/util/JaxbUtil.java
+/Volumes/dev/DocTransformer/transformer/src/main/java/codesmell/transformer/MovieConfig.java

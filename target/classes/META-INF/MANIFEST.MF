@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Title: transformer
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: mbarlot
+Implementation-Vendor-Id: codesmell
+Build-Jdk: 1.8.0_65
+Created-By: Maven Integration for Eclipse
+
